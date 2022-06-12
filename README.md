@@ -9,7 +9,7 @@ Visit [Heroku status site](https://status.heroku.com) for more details
 <div align="center">
 <a href="https://raganork-qr.herokuapp.com/"><img align="center" src="https://i.imgur.com/lLgFrTQ.png" alt="Scan QR" height="112" width="300" /></a>
 <div><br>
-<a href="https://heroku.com?deploytemplate=https://github.com/krakinz/raganork-md.git" target="blank"><img align="center" src="https://i.imgur.com/gtK4XLX.png" alt="Deploy bot" height="112" width="310" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/krakinz/raganork-md" target="blank"><img align="center" src="https://i.imgur.com/gtK4XLX.png" alt="Deploy bot" height="112" width="310" /></a>
   <div>
 <br>
 <a href="https://github.com/krakinz/raganork-md/fork"><img align="center" src="https://i.imgur.com/rM1IC4u.png" alt="Fork and deploy" height="112" width="300" /></a>
